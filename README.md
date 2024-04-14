@@ -23,6 +23,7 @@ integrity = calculate_integrity(message)
 print("Message integrity:", integrity)
 ```
 La sortie de Hello, word
+
 <img src="EIA.png" width="80%"/>
 
 ***Il est important de noter que cet algorithme d'intégrité ne fournit pas d'authentification, mais seulement la capacité de détecter les changements dans le message.***
